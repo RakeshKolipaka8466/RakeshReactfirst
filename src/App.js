@@ -1,23 +1,31 @@
-import logo from './logo.svg';
+// import { Card } from './netflix';
+// import { Hhook } from './hook';
+// import { Hook1 } from './hook1';
+// import { Multiplesta } from './multipleStates';
+import { Practice } from './practice';
+// import { ShowHideData } from './3-usestate';
+// import { Form } from './form1';
+ //import { ToDoList } from './todoList';
+ //import { UseEffecT } from './useeffect1';
 import './App.css';
-
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h2>Hi React</h2>
+      {/* < UseEffecT /> */}
+       <Practice /> 
+       {/* <ToDoList />  */}
+      
+      {/* 
+      <Form />
+      <ShowHideData />
+      
+      <Multiplesta />
+      <Card />
+      <Hhook />
+      <Hook1 /> */}
+      
+      
     </div>
   );
 }
