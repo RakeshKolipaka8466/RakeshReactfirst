@@ -1,4 +1,4 @@
-import "./Practice.css";
+import "./Props.css";
 import { data3 } from "./dataphotos";
 // const data3=[
 //   {
@@ -37,7 +37,7 @@ import { data3 } from "./dataphotos";
 //     "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
 //   },
 // ];
-export const Practice=()=>{
+export const Propss=()=>{
   return(
     <div className="profile-container">
       {

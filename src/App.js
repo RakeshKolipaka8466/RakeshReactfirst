@@ -2,7 +2,7 @@
 // import { Hhook } from './hook';
 // import { Hook1 } from './hook1';
 // import { Multiplesta } from './multipleStates';
-import { Practice } from './props';
+import { Propss } from './props';
 // import { ShowHideData } from './3-usestate';
 // import { Form } from './form1';
  //import { ToDoList } from './todoList';
@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <h2>Hi React</h2>
       {/* < UseEffecT /> */}
-       <Practice /> 
+       <Propss /> 
        {/* <ToDoList />  */}
       
       {/* 
